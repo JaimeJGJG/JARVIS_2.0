@@ -1,0 +1,41 @@
+Conheça o J.A.R.V.I.S 2.0
+Um assistente virtual feito em Python e PyQt5
+Ele usa um sistema de reconhecimento de voz offline(vosk)
+Um sistema de fala mantido pela 
+
+Observações:
+Atualmente esse projeto está em uma versão Alpha
+Podem ocorrer erros e bugs
+Não é uma versão oficial ainda
+Muita coisa pode mudar até a versão final
+São lançados updates quase diariamente
+Fiquem de olho nas atualizações
+Obrigado pelo apoio
+
+
+Seu ultimo Update foi feito em 07/02/2021
+
+Desenvolvedor:JaimeJG
+
+
+# PARA TUDO FUNCIONAR:
+# Primeiro instale o pip: sudo apt-get install python3-pip
+# Atualize o pip com o comando: pip3 install -U pip
+
+INSTALE ALGUNS MODULOS:
+# sudo apt-get install python3-pyaudio
+# sudo apt-get install espeak
+# sudo apt-get install python3-dbus
+# sudo apt-get install python3-pyqt5
+
+AGORA ALGUMAS INSTALAÇÕES EM PIP3:
+# pip3 install SpeechRecognition
+# pip3 install pyttsx3
+# pip3 install datetime
+# pip3 install espeakng
+# pip3 install psutil
+# pip3 install python-vlc 
+# pip3 install vosk
+# pip3 install jsonlib-python3
+# pip3 install plyer
+# pip3 install wikipedia
