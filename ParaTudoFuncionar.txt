@@ -1,7 +1,5 @@
 Conheça o J.A.R.V.I.S 2.0
 Um assistente virtual feito em Python e PyQt5
-Ele usa um sistema de reconhecimento de voz offline(vosk)
-Um sistema de fala mantido pela 
 
 Observações:
 Atualmente esse projeto está em uma versão Alpha
