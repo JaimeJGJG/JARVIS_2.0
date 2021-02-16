@@ -612,7 +612,7 @@ class Janela (QMainWindow):
 
         self.wall = QLabel(self)
         self.wall.move(0,0)
-        self.wall.setPixmap(QtGui.QPixmap('Fundo.png'))
+        self.wall.setPixmap(QtGui.QPixmap('FundoBlack.png'))
         self.wall.resize(400,300)
         
         self.label_jarvis = QLabel(self)
