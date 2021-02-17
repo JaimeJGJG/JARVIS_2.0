@@ -21,6 +21,6 @@ Observações:
 
 Instruções para instalação correta estão no: ParaTudoFuncionar.txt
 
-Seu ultimo Update foi feito em 14/02/2021
+Seu ultimo Update foi feito em 16/02/2021
 
 Desenvolvedor:JaimeJG
